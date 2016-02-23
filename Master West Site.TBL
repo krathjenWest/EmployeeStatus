@@ -1,0 +1,14 @@
+SiteId,Name,Director Name,City,State,Timezone,Max Seats
+
+1,B2B Site #3,Mickey Mouse,Omaha,NE,CST,500
+
+1A,911 Center East,Donald Duck,Atlanta,GA,EST,100
+
+2C,911 Center Midwest,Pluto,Denver,CO,MST,75
+
+32,Consumer Aid,Charlie Brown,Columbus,OH,EST,205
+
+61,Consumer Direct,Stevie Wonder,Appleton,WI,CST,350
+
+62,B2B Site #1,Alan Alda,San Diego,CA,PST,345
+
