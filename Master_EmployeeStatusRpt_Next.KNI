@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!-- Connect Interface File -->
 <Interface>
-<FileFingerprint>[1728619469]</FileFingerprint>
+<FileFingerprint>[1439873409]</FileFingerprint>
 <Version>[7.0.7.457]</Version>
 <Modified>42423</Modified>
-<FileName>[C:\EmployeeStatus\Master_EmployeeStatusRpt_Next.KNI]</FileName>
+<FileName>[C:\Kronos\InterfaceDesigner\EmployeeStatus\Master_EmployeeStatusRpt_Next.KNI]</FileName>
 <RegisteredFingerprint></RegisteredFingerprint>
 <CurrentFingerprint></CurrentFingerprint>
 <Signature></Signature>
@@ -13,7 +13,7 @@
 <LastRecordLimit>50</LastRecordLimit>
 <RegistrationName>[Employee Report]</RegistrationName>
 <Description>[Interface created from Link Master_EmployeeStatusRpt_Next.KNX]</Description>
-<PCName>[OM3337D1]</PCName>
+<PCName>[OM2030L1]</PCName>
 <UserName>[wdikcr]</UserName>
 <RenameLRS>0</RenameLRS>
 <AutoErrorNotify>0</AutoErrorNotify>
